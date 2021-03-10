@@ -16,3 +16,10 @@ Há uma tabela que permite a visualização das salas na aba Sala e uma tabela A
 
 Ao sair da aplicação o sistema apaga todos os dados.
 Não há metodo para salvar a lista de alunos em arquivo manipulável.
+
+Em implementação:
+
+- Gerar relatório de alunos por salas;
+- armazenar em BD;
+- criar aba para separar alunos em sala especifica para café
+- criar variavel de contagem de alunos por sala
